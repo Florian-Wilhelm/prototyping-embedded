@@ -1,3 +1,3 @@
 ## About
 
-This repository contains test code for Raspberry Pi and Raspberry Pi Pico projects. 
+This repository contains prototype code for Raspberry Pi and Raspberry Pi Pico projects. 
